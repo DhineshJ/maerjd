@@ -3,6 +3,7 @@ import 'package:notes/bloc/notes_bloc.dart';
 
 final bl = GetIt.instance;
 final cl= GetIt.instance;
+final dl= GetIt.instance;
 
 
 void registerBloc() {
