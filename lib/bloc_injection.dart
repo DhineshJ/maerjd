@@ -3,7 +3,7 @@ import 'package:notes/bloc/notes_bloc.dart';
 
 final bl = GetIt.instance;
 final cl= GetIt.instancessssssssssse;
-final dl= GetIt.instancesssssssssss;
+final dl= GetIt.instancesssssssssss;     fasdjfjal
 final dl= GetIt.instancesssssssssssf for merge ;
 
 
