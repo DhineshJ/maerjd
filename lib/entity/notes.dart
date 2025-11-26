@@ -1,4 +1,6 @@
 class Notes {
+
+//aksdjflkasjd;fla
   final int id;
   final String name;
   final String notesDetails;
@@ -7,5 +9,11 @@ class Notes {
     required this.id,
     required this.name,
     required this.notesDetails,
+
+
+
+    sdfasd
+
+
   });
 }
