@@ -11,3 +11,5 @@ void registerBloc() {
     () => NotesBloc(),
   );
 }
+
+// some sample
